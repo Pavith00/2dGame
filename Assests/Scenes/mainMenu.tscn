@@ -1,0 +1,51 @@
+[gd_scene load_steps=4 format=3 uid="uid://cx5hbxs31avmq"]
+
+[ext_resource type="Script" path="res://Assests/Scenes/mainMenu.gd" id="1_h4ex7"]
+[ext_resource type="Texture2D" uid="uid://x8vl2onxismp" path="res://Assests/Purple.png" id="1_u1sfn"]
+[ext_resource type="Texture2D" uid="uid://33578bvnvcqv" path="res://Assests/Pink-Man.png" id="2_s8u01"]
+
+[node name="MainMenu" type="Node"]
+script = ExtResource("1_h4ex7")
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_u1sfn")
+stretch_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -426.0
+offset_top = -209.0
+offset_right = 458.0
+offset_bottom = 103.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_s8u01")
+expand_mode = 1
+
+[node name="Button" type="Button" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -107.0
+offset_top = 92.0
+offset_right = 141.0
+offset_bottom = 145.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.972258, 0.756723, 1, 1)
+theme_override_font_sizes/font_size = 30
+text = "Start"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

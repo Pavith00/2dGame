@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://dyq5g8bnmfqo"]
+
+[ext_resource type="Texture2D" uid="uid://cspp12q0jcno8" path="res://Assests/Poses/character_zombie_side.png" id="1_si880"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_1kmaw"]
+radius = 21.0
+height = 94.0
+
+[node name="pavithra" type="CharacterBody2D"]
+position = Vector2(43, 52)
+metadata/_edit_group_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_si880")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 16)
+shape = SubResource("CapsuleShape2D_1kmaw")
