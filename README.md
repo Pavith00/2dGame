@@ -31,9 +31,13 @@ I made this project to learn how to use C# in Godot for making 2D platform games
 7. Collect as many strawberries as possible to increase your score.
 8. Reach the trophy at the end of the level to complete it.
 
-**Screenshots:**
+**Preview:**
 
-[Include screenshots of your game here]
+
+https://github.com/Pavith00/2dGame/assets/113990110/477fe97c-5b72-4941-98f7-973640c7256c
+
+
+
 
 **Future Improvements:**
 
