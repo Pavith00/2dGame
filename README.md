@@ -4,7 +4,7 @@
 **Description:**
 
 Strawberry Quest is a simple 2D platformer game created using the Godot game engine. The objective of the game is for the player to navigate through the level, collect strawberries to increase their score, and reach the trophy to complete the level.
-I made this project to learn how to use C# in Godot for making 2D platform games. I hope in making this open source that others will also learn some things that I have learned.
+I made this project to learn how to use GDScript in Godot for making 2D platform games. I hope in making this open source that others will also learn some things that I have learned.
 
 **Features:**
 
