@@ -1,6 +1,3 @@
-
-https://github.com/Pavith00/2dGame/assets/113990110/e9f661fb-bedf-41e7-a969-41356d1777b2
-
 # Strawberry Quest
 
 **Description:**
