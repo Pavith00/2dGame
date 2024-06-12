@@ -1,4 +1,6 @@
 
+https://github.com/Pavith00/2dGame/assets/113990110/e9f661fb-bedf-41e7-a969-41356d1777b2
+
 # Strawberry Quest
 
 **Description:**
@@ -34,9 +36,7 @@ I made this project to learn how to use GDScript in Godot for making 2D platform
 **Preview:**
 
 
-https://github.com/Pavith00/2dGame/assets/113990110/477fe97c-5b72-4941-98f7-973640c7256c
-
-
+https://github.com/Pavith00/2dGame/assets/113990110/ce662675-de27-4882-808c-fba5e8024d6d
 
 
 **Future Improvements:**
