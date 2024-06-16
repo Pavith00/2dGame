@@ -33,7 +33,7 @@ I made this project to learn how to use GDScript in Godot for making 2D platform
 **Preview:**
 
 
-https://github.com/Pavith00/2dGame/assets/113990110/ce662675-de27-4882-808c-fba5e8024d6d
+https://github.com/Pavith00/2dGame/assets/113990110/cdd2df24-dc78-451f-b89a-e2d960a192e2
 
 
 **Future Improvements:**
